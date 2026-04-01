@@ -1,4 +1,4 @@
-# Tesla Financial & Product Growth Analysis (2012–2020)
+# Tesla Financial & Product Growth Analysis
 
 > **BBA Final Project** — Birla Institute of Technology Mesra (Ranchi)  
 > Department of Management  
